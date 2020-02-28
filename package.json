@@ -1,0 +1,8 @@
+{
+  "name": "mini-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/for-who/mini-webpack.git",
+  "author": "for-who <dearest@abouttime.cn>",
+  "license": "MIT"
+}

@@ -4,5 +4,14 @@
   "main": "index.js",
   "repository": "https://github.com/for-who/mini-webpack.git",
   "author": "for-who <dearest@abouttime.cn>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "bundle": "node ./src/bundler.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "@babel/parser": "^7.8.6",
+    "@babel/preset-env": "^7.8.6",
+    "@babel/traverse": "^7.8.6"
+  }
 }
